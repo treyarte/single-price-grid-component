@@ -1,0 +1,1 @@
+Solution for FrontEndMaster challenge:  Single Price grid component https://beta.frontendmentor.io/solutions/single-price-grid-component-5d1114019edda32581d2921a
